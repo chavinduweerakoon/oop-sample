@@ -3,3 +3,13 @@ this a logger file
 this a logger file 
 this a logger file 
 this a logger file 
+this a logger file 
+new content to check the methodscope 
+new content to check the methodscope 
+new content to check the methodscope 
+new content to check the methodscope 
+new content to check the methodscope 
+new content to check the methodscope 
+new content to check the methodscope 
+new content to check the methodscope 
+new content to check the methodscope 
